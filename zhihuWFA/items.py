@@ -9,4 +9,4 @@ from scrapy.item import Item, Field
 
 
 class ZhihuwfaItem(Item):
-	content = Field()
+    content = Field()
